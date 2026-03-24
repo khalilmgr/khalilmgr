@@ -55,8 +55,63 @@ BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi
 
 ------------------------------------------------------------------------
 
+# 📊 Featured Projects
+
+### 🏅 Olympic Games 2024 Data Analysis
+
+SQL data analysis and **Power BI dashboards** built from a Paris 2024
+dataset.
+
+### 🏠 CoLive -- Student Housing Web Application
+
+Web application allowing users to manage shared housing listings (**PHP
+/ Symfony**).
+
+### 🧠 Solitaire Game Algorithms
+
+Implementation of algorithms and data structures in **Python** to model
+and solve the game.
+
+------------------------------------------------------------------------
+
+# ⚽ Football Data Analysis Projects
+
+### 🔎 Player Replacement Analysis
+
+Data-driven approach to identify a player capable of replacing a key
+player during the transfer window.
+
+### 📈 Team Performance Analysis -- Stade de Reims
+
+Statistical analysis of team and player performance.
+
+### 🧩 Playing Style Analysis -- Brentford
+
+Tactical and statistical analysis of a Premier League team using
+**Tableau dashboards**.
+
+------------------------------------------------------------------------
+
+# 🌍 Interests
+
+⚽ Football\
+✈️ Traveling\
+🚀 Entrepreneurship\
+🤖 Automation
+
+------------------------------------------------------------------------
+
+### 📊 GitHub Activity
+
+<p align="left">
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=khalilmgr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalilmgr&layout=compact&theme=tokyonight"/>
+</p>
+
+------------------------------------------------------------------------
+
 # 📫 Contact
 
-📧 khalil.moughamir@gmail.com  
-📞 +33 07 69 88 89 89
+📍 Reims, France\
+📧 khalil.moughamir@gmail.com
 
