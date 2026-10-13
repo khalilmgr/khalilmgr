@@ -101,4 +101,3 @@ Reports built with **Tableau**:
 - Email: khalil.moughamir@gmail.com
 - Portfolio: [khalil-moughamir.vercel.app](https://khalil-moughamir.vercel.app)
 - LinkedIn: [Khalil Moughamir](https://www.linkedin.com/in/khalil-moughamir)
-- Location: Chicoutimi, Québec, Canada
